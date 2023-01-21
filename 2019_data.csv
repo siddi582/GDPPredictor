@@ -1,0 +1,1218 @@
+Country Name,Country Code,Series Name,Series Code,2019 [YR2019]
+Argentina,ARG,GDP (current US$),NY.GDP.MKTP.CD,447754609218.678
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.00086100285785
+Argentina,ARG,GNI (current US$),NY.GNP.MKTP.CD,430166720596.329
+Argentina,ARG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-2.30715341123422
+Argentina,ARG,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Argentina,ARG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.74065029063396
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.7057366680037
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.9248783778462
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,35.5
+Argentina,ARG,"Labor force, total",SL.TLF.TOTL.IN,20607477
+Argentina,ARG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,9.84000015258789
+Australia,AUS,GDP (current US$),NY.GDP.MKTP.CD,1392227864397.08
+Australia,AUS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.1713962244835
+Australia,AUS,GNI (current US$),NY.GNP.MKTP.CD,1345720926906.02
+Australia,AUS,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Australia,AUS,Consumer price index (2010 = 100),FP.CPI.TOTL,119.797086368366
+Australia,AUS,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.61076787290379
+Australia,AUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.2536183403361
+Australia,AUS,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.675186593329
+Australia,AUS,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,24.1515391092117
+Australia,AUS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Australia,AUS,"Labor force, total",SL.TLF.TOTL.IN,13590353
+Australia,AUS,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.15999984741211
+Brazil,BRA,GDP (current US$),NY.GDP.MKTP.CD,1873274432754.47
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.22077782360842
+Brazil,BRA,GNI (current US$),NY.GNP.MKTP.CD,1822980993357.84
+Brazil,BRA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.33252106595127
+Brazil,BRA,Consumer price index (2010 = 100),FP.CPI.TOTL,167.397860280061
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.73297621216894
+Brazil,BRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.05068507848387
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.7673386789326
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.1229191903622
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Brazil,BRA,"Labor force, total",SL.TLF.TOTL.IN,104559401
+Brazil,BRA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,11.9399995803833
+China,CHN,GDP (current US$),NY.GDP.MKTP.CD,14279937500606.5
+China,CHN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.9505007536746
+China,CHN,GNI (current US$),NY.GNP.MKTP.CD,14239928240407.3
+China,CHN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,6.12236509518492
+China,CHN,Consumer price index (2010 = 100),FP.CPI.TOTL,125.083154382075
+China,CHN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.89923416358227
+China,CHN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.60593696057347
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.4801037187357
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.4099923155293
+China,CHN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,0.6
+China,CHN,"Labor force, total",SL.TLF.TOTL.IN,795572880
+China,CHN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.15000009536743
+France,FRA,GDP (current US$),NY.GDP.MKTP.CD,2728870246705.88
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.84297181445896
+France,FRA,GNI (current US$),NY.GNP.MKTP.CD,2787416524619.6
+France,FRA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.67760102170497
+France,FRA,Consumer price index (2010 = 100),FP.CPI.TOTL,110.04856675289
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.10825492288292
+France,FRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.45954746474334
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.549417775836
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.5920554143668
+France,FRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.8
+France,FRA,"Labor force, total",SL.TLF.TOTL.IN,30652293
+France,FRA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.40999984741211
+Germany,DEU,GDP (current US$),NY.GDP.MKTP.CD,3888226035921.56
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.05660389828289
+Germany,DEU,GNI (current US$),NY.GNP.MKTP.CD,4019078052949.01
+Germany,DEU,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.05753227501089
+Germany,DEU,Consumer price index (2010 = 100),FP.CPI.TOTL,112.854887342124
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.4456670146976
+Germany,DEU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.91162101567715
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.0167968997426
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,46.6696129860707
+Germany,DEU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.1
+Germany,DEU,"Labor force, total",SL.TLF.TOTL.IN,44433742
+Germany,DEU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.14000010490417
+India,IND,GDP (current US$),NY.GDP.MKTP.CD,2831552222519.99
+India,IND,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.73791851955785
+India,IND,GNI (current US$),NY.GNP.MKTP.CD,2804313595745.94
+India,IND,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.86089424366914
+India,IND,Consumer price index (2010 = 100),FP.CPI.TOTL,171.621576003377
+India,IND,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.72950573539126
+India,IND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.77592267295201
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.2715452265501
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.6909827074089
+India,IND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+India,IND,"Labor force, total",SL.TLF.TOTL.IN,488759055
+India,IND,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.51000022888184
+Indonesia,IDN,GDP (current US$),NY.GDP.MKTP.CD,1119099868265.25
+Indonesia,IDN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.01928768046282
+Indonesia,IDN,GNI (current US$),NY.GNP.MKTP.CD,1085078647175.11
+Indonesia,IDN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.98490167753761
+Indonesia,IDN,Consumer price index (2010 = 100),FP.CPI.TOTL,151.176675071352
+Indonesia,IDN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.03058664969491
+Indonesia,IDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.2992559151159
+Indonesia,IDN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.0362497386225
+Indonesia,IDN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.5915277970883
+Indonesia,IDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.4
+Indonesia,IDN,"Labor force, total",SL.TLF.TOTL.IN,136142053
+Indonesia,IDN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.58999991416931
+Italy,ITA,GDP (current US$),NY.GDP.MKTP.CD,2011302198827.45
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.483198316597154
+Italy,ITA,GNI (current US$),NY.GNP.MKTP.CD,2028350676137.25
+Italy,ITA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.229137430645451
+Italy,ITA,Consumer price index (2010 = 100),FP.CPI.TOTL,110.623595648239
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.611246943765291
+Italy,ITA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.31131544170879
+Italy,ITA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,28.2765604958343
+Italy,ITA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.6024197276206
+Italy,ITA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,20
+Italy,ITA,"Labor force, total",SL.TLF.TOTL.IN,25907430
+Italy,ITA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,9.94999980926514
+Japan,JPN,GDP (current US$),NY.GDP.MKTP.CD,5123318151510.62
+Japan,JPN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.240350840922716
+Japan,JPN,GNI (current US$),NY.GNP.MKTP.CD,5323445358760.67
+Japan,JPN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.159368044338166
+Japan,JPN,Consumer price index (2010 = 100),FP.CPI.TOTL,105.484267885393
+Japan,JPN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.468776159383912
+Japan,JPN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.54098020491546
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.7344423690114
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.4453778322738
+Japan,JPN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Japan,JPN,"Labor force, total",SL.TLF.TOTL.IN,69145741
+Japan,JPN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.34999990463257
+"Korea, Rep.",KOR,GDP (current US$),NY.GDP.MKTP.CD,1651422932447.77
+"Korea, Rep.",KOR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.24397786011012
+"Korea, Rep.",KOR,GNI (current US$),NY.GNP.MKTP.CD,1665675897739.53
+"Korea, Rep.",KOR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.69149066346137
+"Korea, Rep.",KOR,Consumer price index (2010 = 100),FP.CPI.TOTL,115.158634290169
+"Korea, Rep.",KOR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.383000303608079
+"Korea, Rep.",KOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.7993253802233
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,36.4812778978581
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.2758610673609
+"Korea, Rep.",KOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Korea, Rep.",KOR,"Labor force, total",SL.TLF.TOTL.IN,28808832
+"Korea, Rep.",KOR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.75
+Mexico,MEX,GDP (current US$),NY.GDP.MKTP.CD,1269011767478.56
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.199047772272948
+Mexico,MEX,GNI (current US$),NY.GNP.MKTP.CD,1232011848823.69
+Mexico,MEX,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.440441290110613
+Mexico,MEX,Consumer price index (2010 = 100),FP.CPI.TOTL,141.542522969974
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.6359614212705
+Mexico,MEX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.59170861408077
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.0760617881856
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.8212851623816
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Mexico,MEX,"Labor force, total",SL.TLF.TOTL.IN,55827457
+Mexico,MEX,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.48000001907349
+Netherlands,NLD,GDP (current US$),NY.GDP.MKTP.CD,910194347568.626
+Netherlands,NLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.95558841574046
+Netherlands,NLD,GNI (current US$),NY.GNP.MKTP.CD,891679358650.979
+Netherlands,NLD,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.257106932069306
+Netherlands,NLD,Consumer price index (2010 = 100),FP.CPI.TOTL,115.907994941178
+Netherlands,NLD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.63369910249593
+Netherlands,NLD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.43707462722941
+Netherlands,NLD,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,72.7329639446286
+Netherlands,NLD,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,82.5377127008628
+Netherlands,NLD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.4
+Netherlands,NLD,"Labor force, total",SL.TLF.TOTL.IN,9466453
+Netherlands,NLD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.38000011444092
+Russian Federation,RUS,GDP (current US$),NY.GDP.MKTP.CD,1693113904262.89
+Russian Federation,RUS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.19807571380863
+Russian Federation,RUS,GNI (current US$),NY.GNP.MKTP.CD,1639593344263.08
+Russian Federation,RUS,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.44363974283588
+Russian Federation,RUS,Consumer price index (2010 = 100),FP.CPI.TOTL,180.750263654162
+Russian Federation,RUS,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.47036660760175
+Russian Federation,RUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.7972029330523
+Russian Federation,RUS,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.7953229819275
+Russian Federation,RUS,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.4334306799759
+Russian Federation,RUS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Russian Federation,RUS,"Labor force, total",SL.TLF.TOTL.IN,73969499
+Russian Federation,RUS,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.5
+Saudi Arabia,SAU,GDP (current US$),NY.GDP.MKTP.CD,803616264791.024
+Saudi Arabia,SAU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.33378075529167
+Saudi Arabia,SAU,GNI (current US$),NY.GNP.MKTP.CD,811515733333.333
+Saudi Arabia,SAU,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.376701278373773
+Saudi Arabia,SAU,Consumer price index (2010 = 100),FP.CPI.TOTL,118.399825471917
+Saudi Arabia,SAU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-2.09333333333333
+Saudi Arabia,SAU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,14.6195533262224
+Saudi Arabia,SAU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.244451955401
+Saudi Arabia,SAU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.5716944892767
+Saudi Arabia,SAU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Saudi Arabia,SAU,"Labor force, total",SL.TLF.TOTL.IN,15598786
+Saudi Arabia,SAU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.6399998664856
+Spain,ESP,GDP (current US$),NY.GDP.MKTP.CD,1394320055129.41
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.9839662230883
+Spain,ESP,GNI (current US$),NY.GNP.MKTP.CD,1396786257474.51
+Spain,ESP,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.0170971604186
+Spain,ESP,Consumer price index (2010 = 100),FP.CPI.TOTL,110.961443623997
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.699518994458693
+Spain,ESP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.09135092007508
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.966988702647
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.9069018147542
+Spain,ESP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,21
+Spain,ESP,"Labor force, total",SL.TLF.TOTL.IN,23301577
+Spain,ESP,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,14.1000003814697
+Switzerland,CHE,GDP (current US$),NY.GDP.MKTP.CD,721369112726.724
+Switzerland,CHE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.14198232505277
+Switzerland,CHE,GNI (current US$),NY.GNP.MKTP.CD,705462297803.829
+Switzerland,CHE,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.56044849980046
+Switzerland,CHE,Consumer price index (2010 = 100),FP.CPI.TOTL,99.546896373006
+Switzerland,CHE,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.362886179940635
+Switzerland,CHE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.35904146198319
+Switzerland,CHE,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,57.1622185006251
+Switzerland,CHE,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,66.9653936798419
+Switzerland,CHE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15.5
+Switzerland,CHE,"Labor force, total",SL.TLF.TOTL.IN,4971006
+Switzerland,CHE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.3899998664856
+Turkiye,TUR,GDP (current US$),NY.GDP.MKTP.CD,759937390496.669
+Turkiye,TUR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.783610198384551
+Turkiye,TUR,GNI (current US$),NY.GNP.MKTP.CD,747112345288.872
+Turkiye,TUR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Turkiye,TUR,Consumer price index (2010 = 100),FP.CPI.TOTL,234.437126307922
+Turkiye,TUR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.1768215720023
+Turkiye,TUR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.75361752810222
+Turkiye,TUR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.1615273793078
+Turkiye,TUR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.5272015787758
+Turkiye,TUR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15
+Turkiye,TUR,"Labor force, total",SL.TLF.TOTL.IN,33612480
+Turkiye,TUR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,13.6700000762939
+United Kingdom,GBR,GDP (current US$),NY.GDP.MKTP.CD,2857057847953.02
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.60430864787399
+United Kingdom,GBR,GNI (current US$),NY.GNP.MKTP.CD,2855883547433.12
+United Kingdom,GBR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.95899994634428
+United Kingdom,GBR,Consumer price index (2010 = 100),FP.CPI.TOTL,119.622711300166
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.73810460086511
+United Kingdom,GBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.22051448799294
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.8725470748963
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.2576060558948
+United Kingdom,GBR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+United Kingdom,GBR,"Labor force, total",SL.TLF.TOTL.IN,34701423
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.74000000953674
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,21380976119000
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.29443907769311
+United States,USA,GNI (current US$),NY.GNP.MKTP.CD,21764537000000
+United States,USA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.18257607907289
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,117.244195476228
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.81221007526015
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,14.6734106066885
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.5794793588956
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.8724701148898
+United States,USA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+United States,USA,"Labor force, total",SL.TLF.TOTL.IN,165974557
+United States,USA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.67000007629395
+Afghanistan,AFG,GDP (current US$),NY.GDP.MKTP.CD,18904490262.913
+Afghanistan,AFG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.911603419423
+Afghanistan,AFG,GNI (current US$),NY.GNP.MKTP.CD,19205014964.7728
+Afghanistan,AFG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Afghanistan,AFG,Consumer price index (2010 = 100),FP.CPI.TOTL,149.895975208032
+Afghanistan,AFG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.30237251516844
+Afghanistan,AFG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.160976451493467
+Afghanistan,AFG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..
+Afghanistan,AFG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..
+Afghanistan,AFG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Afghanistan,AFG,"Labor force, total",SL.TLF.TOTL.IN,9981792
+Afghanistan,AFG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,15401830754.0773
+Albania,ALB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.08806337615015
+Albania,ALB,GNI (current US$),NY.GNP.MKTP.CD,15200249154.3075
+Albania,ALB,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.919013966541485
+Albania,ALB,Consumer price index (2010 = 100),FP.CPI.TOTL,119.049258384382
+Albania,ALB,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.41109078954248
+Albania,ALB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.69224831964856
+Albania,ALB,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,44.9749244902205
+Albania,ALB,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.3042701298034
+Albania,ALB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,21.8
+Albania,ALB,"Labor force, total",SL.TLF.TOTL.IN,1433004
+Albania,ALB,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,11.4700002670288
+Algeria,DZA,GDP (current US$),NY.GDP.MKTP.CD,171767403748.19
+Algeria,DZA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.999999999741789
+Algeria,DZA,GNI (current US$),NY.GNP.MKTP.CD,167568133680.09
+Algeria,DZA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.08443508586417
+Algeria,DZA,Consumer price index (2010 = 100),FP.CPI.TOTL,151.361667767746
+Algeria,DZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.95176821052894
+Algeria,DZA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.01003452306043
+Algeria,DZA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.0941082162686
+Algeria,DZA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,22.7134619101122
+Algeria,DZA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Algeria,DZA,"Labor force, total",SL.TLF.TOTL.IN,12413307
+Algeria,DZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Austria,AUT,GDP (current US$),NY.GDP.MKTP.CD,444621176100.548
+Austria,AUT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.51738858303159
+Austria,AUT,GNI (current US$),NY.GNP.MKTP.CD,443348064909.019
+Austria,AUT,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.22661466246745
+Austria,AUT,Consumer price index (2010 = 100),FP.CPI.TOTL,118.057980056249
+Austria,AUT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.53089564152645
+Austria,AUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.2939842524557
+Austria,AUT,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,52.128791145464
+Austria,AUT,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,55.7572063557543
+Austria,AUT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.9
+Austria,AUT,"Labor force, total",SL.TLF.TOTL.IN,4662739
+Austria,AUT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.55999994277954
+Bangladesh,BGD,GDP (current US$),NY.GDP.MKTP.CD,351238474244.667
+Bangladesh,BGD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.88191515117722
+Bangladesh,BGD,GNI (current US$),NY.GNP.MKTP.CD,365625699161.72
+Bangladesh,BGD,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,7.90786295328785
+Bangladesh,BGD,Consumer price index (2010 = 100),FP.CPI.TOTL,179.679821747048
+Bangladesh,BGD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.59199639930633
+Bangladesh,BGD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.548224196802713
+Bangladesh,BGD,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,18.4832952771891
+Bangladesh,BGD,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,13.0947560042783
+Bangladesh,BGD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Bangladesh,BGD,"Labor force, total",SL.TLF.TOTL.IN,69947900
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Barbados,BRB,GDP (current US$),NY.GDP.MKTP.CD,5324250000
+Barbados,BRB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.131147253497488
+Barbados,BRB,GNI (current US$),NY.GNP.MKTP.CD,5057350000
+Barbados,BRB,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Barbados,BRB,Consumer price index (2010 = 100),FP.CPI.TOTL,134.091174070188
+Barbados,BRB,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.10028964518463
+Barbados,BRB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.46141766007567
+Barbados,BRB,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.9706061886651
+Barbados,BRB,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.4821336338451
+Barbados,BRB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Barbados,BRB,"Labor force, total",SL.TLF.TOTL.IN,143823
+Barbados,BRB,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.40999984741211
+Belarus,BLR,GDP (current US$),NY.GDP.MKTP.CD,64409647193.8044
+Belarus,BLR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.40000000000001
+Belarus,BLR,GNI (current US$),NY.GNP.MKTP.CD,62539439716.9902
+Belarus,BLR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.10373337157606
+Belarus,BLR,Consumer price index (2010 = 100),FP.CPI.TOTL,508.339294380209
+Belarus,BLR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.59815595039851
+Belarus,BLR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.12223776544422
+Belarus,BLR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,65.7558221092078
+Belarus,BLR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,65.0945839929757
+Belarus,BLR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,5
+Belarus,BLR,"Labor force, total",SL.TLF.TOTL.IN,5042341
+Belarus,BLR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.15999984741211
+Belgium,BEL,GDP (current US$),NY.GDP.MKTP.CD,535830876745.097
+Belgium,BEL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.24085824041289
+Belgium,BEL,GNI (current US$),NY.GNP.MKTP.CD,541014491515.293
+Belgium,BEL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.32997659396077
+Belgium,BEL,Consumer price index (2010 = 100),FP.CPI.TOTL,117.110457187971
+Belgium,BEL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.43681956996435
+Belgium,BEL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.09558395403513
+Belgium,BEL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,81.774363045681
+Belgium,BEL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,82.4025530403535
+Belgium,BEL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.1
+Belgium,BEL,"Labor force, total",SL.TLF.TOTL.IN,5194405
+Belgium,BEL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.3600001335144
+Bhutan,BTN,GDP (current US$),NY.GDP.MKTP.CD,2535657069.05537
+Bhutan,BTN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.75516999309463
+Bhutan,BTN,GNI (current US$),NY.GNP.MKTP.CD,2306109175.90524
+Bhutan,BTN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.67795091780606
+Bhutan,BTN,Consumer price index (2010 = 100),FP.CPI.TOTL,167.182458685409
+Bhutan,BTN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.72582104307304
+Bhutan,BTN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.36815120067167
+Bhutan,BTN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,48.1895416655948
+Bhutan,BTN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.9390638133457
+Bhutan,BTN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Bhutan,BTN,"Labor force, total",SL.TLF.TOTL.IN,362856
+Bhutan,BTN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.72000002861023
+Bosnia and Herzegovina,BIH,GDP (current US$),NY.GDP.MKTP.CD,20202479537.5193
+Bosnia and Herzegovina,BIH,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.83100130837011
+Bosnia and Herzegovina,BIH,GNI (current US$),NY.GNP.MKTP.CD,20167965199.4734
+Bosnia and Herzegovina,BIH,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.27354661426504
+Bosnia and Herzegovina,BIH,Consumer price index (2010 = 100),FP.CPI.TOTL,104.896137350469
+Bosnia and Herzegovina,BIH,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.562782154061303
+Bosnia and Herzegovina,BIH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.26950657013477
+Bosnia and Herzegovina,BIH,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,55.2309836039192
+Bosnia and Herzegovina,BIH,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.5949446834282
+Bosnia and Herzegovina,BIH,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Bosnia and Herzegovina,BIH,"Labor force, total",SL.TLF.TOTL.IN,1194896
+Bosnia and Herzegovina,BIH,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.6899995803833
+Bulgaria,BGR,GDP (current US$),NY.GDP.MKTP.CD,68915875214.6537
+Bulgaria,BGR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.03814220572653
+Bulgaria,BGR,GNI (current US$),NY.GNP.MKTP.CD,66969441900.4007
+Bulgaria,BGR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.45035416419918
+Bulgaria,BGR,Consumer price index (2010 = 100),FP.CPI.TOTL,114.418393160353
+Bulgaria,BGR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.10372944796774
+Bulgaria,BGR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.61085727989368
+Bulgaria,BGR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,60.7056823815309
+Bulgaria,BGR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,63.9339174577794
+Bulgaria,BGR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Bulgaria,BGR,"Labor force, total",SL.TLF.TOTL.IN,3391873
+Bulgaria,BGR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.23000001907349
+Cambodia,KHM,GDP (current US$),NY.GDP.MKTP.CD,27089389786.979
+Cambodia,KHM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.05410693233065
+Cambodia,KHM,GNI (current US$),NY.GNP.MKTP.CD,25525556830.0021
+Cambodia,KHM,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,6.4366142005547
+Cambodia,KHM,Consumer price index (2010 = 100),FP.CPI.TOTL,130.113128034144
+Cambodia,KHM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.94257500833109
+Cambodia,KHM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.99828812132025
+Cambodia,KHM,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,62.4652272455104
+Cambodia,KHM,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,61.0912965228197
+Cambodia,KHM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Cambodia,KHM,"Labor force, total",SL.TLF.TOTL.IN,9220326
+Cambodia,KHM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,0.5
+Canada,CAN,GDP (current US$),NY.GDP.MKTP.CD,1742015045482.31
+Canada,CAN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.87959202770178
+Canada,CAN,GNI (current US$),NY.GNP.MKTP.CD,1719638539211.23
+Canada,CAN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.31728874947321
+Canada,CAN,Consumer price index (2010 = 100),FP.CPI.TOTL,116.75729822553
+Canada,CAN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.94926902411596
+Canada,CAN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.4306128276297
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.5038294565728
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.9085326228511
+Canada,CAN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Canada,CAN,"Labor force, total",SL.TLF.TOTL.IN,20758436
+Canada,CAN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.65999984741211
+Central African Republic,CAF,GDP (current US$),NY.GDP.MKTP.CD,2221301400.72468
+Central African Republic,CAF,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.09999999999999
+Central African Republic,CAF,GNI (current US$),NY.GNP.MKTP.CD,2386023521.66114
+Central African Republic,CAF,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.96891923766375
+Central African Republic,CAF,Consumer price index (2010 = 100),FP.CPI.TOTL,151.785085312376
+Central African Republic,CAF,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.68537355266785
+Central African Republic,CAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0460712358524027
+Central African Republic,CAF,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.3104199996784
+Central African Republic,CAF,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.7553800018083
+Central African Republic,CAF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Central African Republic,CAF,"Labor force, total",SL.TLF.TOTL.IN,1925458
+Central African Republic,CAF,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Chile,CHL,GDP (current US$),NY.GDP.MKTP.CD,278584733103.01
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.77053958389908
+Chile,CHL,GNI (current US$),NY.GNP.MKTP.CD,268151995883.752
+Chile,CHL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.18349698094336
+Chile,CHL,Consumer price index (2010 = 100),FP.CPI.TOTL,131.913566974844
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.55754475703323
+Chile,CHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.79897448626273
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.6938422593197
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.8341315902738
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Chile,CHL,"Labor force, total",SL.TLF.TOTL.IN,9208103
+Chile,CHL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.26999998092651
+Colombia,COL,GDP (current US$),NY.GDP.MKTP.CD,323109540251.855
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.18685539245533
+Colombia,COL,GNI (current US$),NY.GNP.MKTP.CD,316057669689.526
+Colombia,COL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.50877407234707
+Colombia,COL,Consumer price index (2010 = 100),FP.CPI.TOTL,140.94784969246
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.52301932741443
+Colombia,COL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.61474774997391
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.6904953267149
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.8680386541241
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,35.7
+Colombia,COL,"Labor force, total",SL.TLF.TOTL.IN,26304741
+Colombia,COL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,9.96000003814697
+Comoros,COM,GDP (current US$),NY.GDP.MKTP.CD,1195019559.09381
+Comoros,COM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.76078023923176
+Comoros,COM,GNI (current US$),NY.GNP.MKTP.CD,1200664079.64628
+Comoros,COM,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.69943607530033
+Comoros,COM,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Comoros,COM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Comoros,COM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.404558352293774
+Comoros,COM,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.4946179024958
+Comoros,COM,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.7734606325226
+Comoros,COM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Comoros,COM,"Labor force, total",SL.TLF.TOTL.IN,214143
+Comoros,COM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Croatia,HRV,GDP (current US$),NY.GDP.MKTP.CD,62327983579.5899
+Croatia,HRV,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.42100553041595
+Croatia,HRV,GNI (current US$),NY.GNP.MKTP.CD,62379408636.1875
+Croatia,HRV,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.9365991959349
+Croatia,HRV,Consumer price index (2010 = 100),FP.CPI.TOTL,109.815676449535
+Croatia,HRV,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.771820346498083
+Croatia,HRV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.06370783264011
+Croatia,HRV,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,51.0059699158039
+Croatia,HRV,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,50.5945384549446
+Croatia,HRV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.3
+Croatia,HRV,"Labor force, total",SL.TLF.TOTL.IN,1781597
+Croatia,HRV,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.61999988555908
+Cuba,CUB,GDP (current US$),NY.GDP.MKTP.CD,103428000000
+Cuba,CUB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.164839982463832
+Cuba,CUB,GNI (current US$),NY.GNP.MKTP.CD,101873800000
+Cuba,CUB,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.19424211961632
+Cuba,CUB,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Cuba,CUB,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Cuba,CUB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.28953729585692
+Cuba,CUB,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,10.6073790462931
+Cuba,CUB,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.2133271454538
+Cuba,CUB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Cuba,CUB,"Labor force, total",SL.TLF.TOTL.IN,5342133
+Cuba,CUB,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Denmark,DNK,GDP (current US$),NY.GDP.MKTP.CD,346498737961.635
+Denmark,DNK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.49348695853648
+Denmark,DNK,GNI (current US$),NY.GNP.MKTP.CD,356539625739.249
+Denmark,DNK,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.61085519880797
+Denmark,DNK,Consumer price index (2010 = 100),FP.CPI.TOTL,110.347290420498
+Denmark,DNK,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.758131572511619
+Denmark,DNK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.10798850907958
+Denmark,DNK,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,51.5776463887491
+Denmark,DNK,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,58.6471822154845
+Denmark,DNK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.1
+Denmark,DNK,"Labor force, total",SL.TLF.TOTL.IN,3032098
+Denmark,DNK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.01999998092651
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,303080865603.645
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.55768388791593
+"Egypt, Arab Rep.",EGY,GNI (current US$),NY.GNP.MKTP.CD,292071265603.645
+"Egypt, Arab Rep.",EGY,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.36049610508928
+"Egypt, Arab Rep.",EGY,Consumer price index (2010 = 100),FP.CPI.TOTL,288.572774376263
+"Egypt, Arab Rep.",EGY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.15279959324812
+"Egypt, Arab Rep.",EGY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.36104083450537
+"Egypt, Arab Rep.",EGY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,25.7398395370249
+"Egypt, Arab Rep.",EGY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.5006106612052
+"Egypt, Arab Rep.",EGY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Egypt, Arab Rep.",EGY,"Labor force, total",SL.TLF.TOTL.IN,29715964
+"Egypt, Arab Rep.",EGY,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.84999990463257
+El Salvador,SLV,GDP (current US$),NY.GDP.MKTP.CD,26881140000
+El Salvador,SLV,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.43747157799
+El Salvador,SLV,GNI (current US$),NY.GNP.MKTP.CD,25540040000
+El Salvador,SLV,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.12636120044374
+El Salvador,SLV,Consumer price index (2010 = 100),FP.CPI.TOTL,111.228352310936
+El Salvador,SLV,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0753241350024327
+El Salvador,SLV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.2419953308516
+El Salvador,SLV,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,46.0861034911466
+El Salvador,SLV,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.9559096080003
+El Salvador,SLV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+El Salvador,SLV,"Labor force, total",SL.TLF.TOTL.IN,2728398
+El Salvador,SLV,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.17000007629395
+Ethiopia,ETH,GDP (current US$),NY.GDP.MKTP.CD,95912590628.1412
+Ethiopia,ETH,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,8.3640856990789
+Ethiopia,ETH,GNI (current US$),NY.GNP.MKTP.CD,95322999764.7411
+Ethiopia,ETH,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,8.18236201452613
+Ethiopia,ETH,Consumer price index (2010 = 100),FP.CPI.TOTL,322.519847925871
+Ethiopia,ETH,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.8096321719345
+Ethiopia,ETH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.160882448704671
+Ethiopia,ETH,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.8753243982814
+Ethiopia,ETH,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,7.9399766087609
+Ethiopia,ETH,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Ethiopia,ETH,"Labor force, total",SL.TLF.TOTL.IN,54611488
+Ethiopia,ETH,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Finland,FIN,GDP (current US$),NY.GDP.MKTP.CD,268514916972.549
+Finland,FIN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.22474892206223
+Finland,FIN,GNI (current US$),NY.GNP.MKTP.CD,269873959027.451
+Finland,FIN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.32907212092277
+Finland,FIN,Consumer price index (2010 = 100),FP.CPI.TOTL,112.331712088838
+Finland,FIN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.02409392963429
+Finland,FIN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.37285476082008
+Finland,FIN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.7247538126725
+Finland,FIN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.8806794019795
+Finland,FIN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.2
+Finland,FIN,"Labor force, total",SL.TLF.TOTL.IN,2760016
+Finland,FIN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.69000005722046
+Georgia,GEO,GDP (current US$),NY.GDP.MKTP.CD,17470436258.5131
+Georgia,GEO,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.98235047511106
+Georgia,GEO,GNI (current US$),NY.GNP.MKTP.CD,16692817891.6005
+Georgia,GEO,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.32479656128659
+Georgia,GEO,Consumer price index (2010 = 100),FP.CPI.TOTL,133.612466666667
+Georgia,GEO,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.85289821696731
+Georgia,GEO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.71762422558518
+Georgia,GEO,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,63.7808751662009
+Georgia,GEO,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,54.8184931411381
+Georgia,GEO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.5
+Georgia,GEO,"Labor force, total",SL.TLF.TOTL.IN,1856197
+Georgia,GEO,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,11.5699996948242
+Greece,GRC,GDP (current US$),NY.GDP.MKTP.CD,205257014892.502
+Greece,GRC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.8843417847952
+Greece,GRC,GNI (current US$),NY.GNP.MKTP.CD,203411239873.906
+Greece,GRC,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.09465430009932
+Greece,GRC,Consumer price index (2010 = 100),FP.CPI.TOTL,101.949414101629
+Greece,GRC,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.25300752203812
+Greece,GRC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.59618906985928
+Greece,GRC,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.7742935310089
+Greece,GRC,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.1099326212275
+Greece,GRC,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.7
+Greece,GRC,"Labor force, total",SL.TLF.TOTL.IN,4775900
+Greece,GRC,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,17.0400009155273
+Haiti,HTI,GDP (current US$),NY.GDP.MKTP.CD,14785839382.9002
+Haiti,HTI,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.68459508133022
+Haiti,HTI,GNI (current US$),NY.GNP.MKTP.CD,14835495479.3161
+Haiti,HTI,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-1.64979472357393
+Haiti,HTI,Consumer price index (2010 = 100),FP.CPI.TOTL,212.825312171362
+Haiti,HTI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,18.7037825672506
+Haiti,HTI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.297479358179563
+Haiti,HTI,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.4478782047047
+Haiti,HTI,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.714118839635
+Haiti,HTI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Haiti,HTI,"Labor force, total",SL.TLF.TOTL.IN,4931290
+Haiti,HTI,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+"Hong Kong SAR, China",HKG,GDP (current US$),NY.GDP.MKTP.CD,363052489184.395
+"Hong Kong SAR, China",HKG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.67824646424685
+"Hong Kong SAR, China",HKG,GNI (current US$),NY.GNP.MKTP.CD,381393330695.9
+"Hong Kong SAR, China",HKG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+"Hong Kong SAR, China",HKG,Consumer price index (2010 = 100),FP.CPI.TOTL,134.647443117819
+"Hong Kong SAR, China",HKG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.8832085377399
+"Hong Kong SAR, China",HKG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..
+"Hong Kong SAR, China",HKG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,176.103285840379
+"Hong Kong SAR, China",HKG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,177.656201062765
+"Hong Kong SAR, China",HKG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Hong Kong SAR, China",HKG,"Labor force, total",SL.TLF.TOTL.IN,3992610
+"Hong Kong SAR, China",HKG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.92000007629395
+Hungary,HUN,GDP (current US$),NY.GDP.MKTP.CD,163988594921.902
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.85779236030737
+Hungary,HUN,GNI (current US$),NY.GNP.MKTP.CD,159661704396.89
+Hungary,HUN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,6.23457474354785
+Hungary,HUN,Consumer price index (2010 = 100),FP.CPI.TOTL,121.64204740639
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.3385863538201
+Hungary,HUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.74663102989868
+Hungary,HUN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,79.236996596554
+Hungary,HUN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,81.5455830466533
+Hungary,HUN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Hungary,HUN,"Labor force, total",SL.TLF.TOTL.IN,4767621
+Hungary,HUN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.42000007629395
+Iceland,ISL,GDP (current US$),NY.GDP.MKTP.CD,24826102119.6357
+Iceland,ISL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.41545609212417
+Iceland,ISL,GNI (current US$),NY.GNP.MKTP.CD,24634234577.5015
+Iceland,ISL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Iceland,ISL,Consumer price index (2010 = 100),FP.CPI.TOTL,129.003331214359
+Iceland,ISL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.01397179156056
+Iceland,ISL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.54844225751086
+Iceland,ISL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.8463577232921
+Iceland,ISL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,44.3590281416004
+Iceland,ISL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Iceland,ISL,"Labor force, total",SL.TLF.TOTL.IN,217533
+Iceland,ISL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.50999999046326
+"Iran, Islamic Rep.",IRN,GDP (current US$),NY.GDP.MKTP.CD,283746685180.338
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.65820666195272
+"Iran, Islamic Rep.",IRN,GNI (current US$),NY.GNP.MKTP.CD,284425160044.477
+"Iran, Islamic Rep.",IRN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+"Iran, Islamic Rep.",IRN,Consumer price index (2010 = 100),FP.CPI.TOTL,550.929425291206
+"Iran, Islamic Rep.",IRN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,39.9073455697783
+"Iran, Islamic Rep.",IRN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.27795087587852
+"Iran, Islamic Rep.",IRN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.2704670825754
+"Iran, Islamic Rep.",IRN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,23.4838671400312
+"Iran, Islamic Rep.",IRN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Iran, Islamic Rep.",IRN,"Labor force, total",SL.TLF.TOTL.IN,28702960
+"Iran, Islamic Rep.",IRN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.7399997711182
+Iraq,IRQ,GDP (current US$),NY.GDP.MKTP.CD,233636097800.338
+Iraq,IRQ,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.51379057542323
+Iraq,IRQ,GNI (current US$),NY.GNP.MKTP.CD,232469897800.338
+Iraq,IRQ,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.74243829323824
+Iraq,IRQ,Consumer price index (2010 = 100),FP.CPI.TOTL,119.618699575991
+Iraq,IRQ,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.198965380023871
+Iraq,IRQ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.19983672120634
+Iraq,IRQ,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.9380702213968
+Iraq,IRQ,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.0518681988838
+Iraq,IRQ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Iraq,IRQ,"Labor force, total",SL.TLF.TOTL.IN,10682641
+Iraq,IRQ,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Ireland,IRL,GDP (current US$),NY.GDP.MKTP.CD,399321701632.431
+Ireland,IRL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.44093733423819
+Ireland,IRL,GNI (current US$),NY.GNP.MKTP.CD,310165701604.556
+Ireland,IRL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.56771154918474
+Ireland,IRL,Consumer price index (2010 = 100),FP.CPI.TOTL,106.584326346003
+Ireland,IRL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.939044481054341
+Ireland,IRL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.24514322077522
+Ireland,IRL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,124.369852034006
+Ireland,IRL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,127.879646181738
+Ireland,IRL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.8
+Ireland,IRL,"Labor force, total",SL.TLF.TOTL.IN,2446760
+Ireland,IRL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.94999980926514
+Israel,ISR,GDP (current US$),NY.GDP.MKTP.CD,402470513619.148
+Israel,ISR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.15613798897733
+Israel,ISR,GNI (current US$),NY.GNP.MKTP.CD,400221694850.056
+Israel,ISR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.64187198250295
+Israel,ISR,Consumer price index (2010 = 100),FP.CPI.TOTL,108.17643894567
+Israel,ISR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.844128708733833
+Israel,ISR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.91959371834315
+Israel,ISR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.0479404528965
+Israel,ISR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.2984786508394
+Israel,ISR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Israel,ISR,"Labor force, total",SL.TLF.TOTL.IN,4125006
+Israel,ISR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.79999995231628
+Jamaica,JAM,GDP (current US$),NY.GDP.MKTP.CD,15830768549.8916
+Jamaica,JAM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.892291653822227
+Jamaica,JAM,GNI (current US$),NY.GNP.MKTP.CD,15389268491.0072
+Jamaica,JAM,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.93535370649876
+Jamaica,JAM,Consumer price index (2010 = 100),FP.CPI.TOTL,162.49153689912
+Jamaica,JAM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.90510000865876
+Jamaica,JAM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.98176162161011
+Jamaica,JAM,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,52.0745268861888
+Jamaica,JAM,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.0360807474106
+Jamaica,JAM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Jamaica,JAM,"Labor force, total",SL.TLF.TOTL.IN,1429844
+Jamaica,JAM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.98999977111816
+Jordan,JOR,GDP (current US$),NY.GDP.MKTP.CD,44993992365.1297
+Jordan,JOR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.92737202481064
+Jordan,JOR,GNI (current US$),NY.GNP.MKTP.CD,45001471238.3692
+Jordan,JOR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.40779004591396
+Jordan,JOR,Consumer price index (2010 = 100),FP.CPI.TOTL,125.604002606804
+Jordan,JOR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.761514047265513
+Jordan,JOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.30215243883444
+Jordan,JOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,48.8143415870388
+Jordan,JOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.9384442123928
+Jordan,JOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Jordan,JOR,"Labor force, total",SL.TLF.TOTL.IN,2791810
+Jordan,JOR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,16.7999992370605
+Kazakhstan,KAZ,GDP (current US$),NY.GDP.MKTP.CD,181667190075.541
+Kazakhstan,KAZ,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.50000000008481
+Kazakhstan,KAZ,GNI (current US$),NY.GNP.MKTP.CD,158974567110.728
+Kazakhstan,KAZ,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.10645180022109
+Kazakhstan,KAZ,Consumer price index (2010 = 100),FP.CPI.TOTL,188.51643427329
+Kazakhstan,KAZ,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.24547679608388
+Kazakhstan,KAZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.4569378323984
+Kazakhstan,KAZ,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,28.419629452657
+Kazakhstan,KAZ,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.4389870990994
+Kazakhstan,KAZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,4.3
+Kazakhstan,KAZ,"Labor force, total",SL.TLF.TOTL.IN,9226063
+Kazakhstan,KAZ,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.80000019073486
+Kenya,KEN,GDP (current US$),NY.GDP.MKTP.CD,100379713697.421
+Kenya,KEN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.11415885767801
+Kenya,KEN,GNI (current US$),NY.GNP.MKTP.CD,98774891656.0447
+Kenya,KEN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.01916394398417
+Kenya,KEN,Consumer price index (2010 = 100),FP.CPI.TOTL,189.966315017816
+Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.23585999425422
+Kenya,KEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.43727903105104
+Kenya,KEN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.3314700616651
+Kenya,KEN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.4279966637126
+Kenya,KEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Kenya,KEN,"Labor force, total",SL.TLF.TOTL.IN,22799745
+Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.01000022888184
+"Korea, Dem. People's Rep.",PRK,GDP (current US$),NY.GDP.MKTP.CD,..
+"Korea, Dem. People's Rep.",PRK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,..
+"Korea, Dem. People's Rep.",PRK,GNI (current US$),NY.GNP.MKTP.CD,..
+"Korea, Dem. People's Rep.",PRK,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+"Korea, Dem. People's Rep.",PRK,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+"Korea, Dem. People's Rep.",PRK,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+"Korea, Dem. People's Rep.",PRK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.17585095574668
+"Korea, Dem. People's Rep.",PRK,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..
+"Korea, Dem. People's Rep.",PRK,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..
+"Korea, Dem. People's Rep.",PRK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Korea, Dem. People's Rep.",PRK,"Labor force, total",SL.TLF.TOTL.IN,17177808
+"Korea, Dem. People's Rep.",PRK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Kuwait,KWT,GDP (current US$),NY.GDP.MKTP.CD,136196760180.976
+Kuwait,KWT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.551959287835274
+Kuwait,KWT,GNI (current US$),NY.GNP.MKTP.CD,154471896903.821
+Kuwait,KWT,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.551706680431437
+Kuwait,KWT,Consumer price index (2010 = 100),FP.CPI.TOTL,126.601512114574
+Kuwait,KWT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.09184802655847
+Kuwait,KWT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,20.8619489599151
+Kuwait,KWT,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,44.8895114652072
+Kuwait,KWT,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,53.2934327933402
+Kuwait,KWT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Kuwait,KWT,"Labor force, total",SL.TLF.TOTL.IN,2614361
+Kuwait,KWT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Lebanon,LBN,GDP (current US$),NY.GDP.MKTP.CD,51953744530.2445
+Lebanon,LBN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-7.15724706998392
+Lebanon,LBN,GNI (current US$),NY.GNP.MKTP.CD,50556504530.2445
+Lebanon,LBN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-7.95813872114324
+Lebanon,LBN,Consumer price index (2010 = 100),FP.CPI.TOTL,130.024611761339
+Lebanon,LBN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.0053894939038
+Lebanon,LBN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.83404536996868
+Lebanon,LBN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,42.0001078758814
+Lebanon,LBN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.559205356527
+Lebanon,LBN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Lebanon,LBN,"Labor force, total",SL.TLF.TOTL.IN,1846971
+Lebanon,LBN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,11.3000001907349
+Liberia,LBR,GDP (current US$),NY.GDP.MKTP.CD,3319596500
+Liberia,LBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.46729763532686
+Liberia,LBR,GNI (current US$),NY.GNP.MKTP.CD,2965834700
+Liberia,LBR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Liberia,LBR,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Liberia,LBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Liberia,LBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.23669639765075
+Liberia,LBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..
+Liberia,LBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..
+Liberia,LBR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Liberia,LBR,"Labor force, total",SL.TLF.TOTL.IN,2224837
+Liberia,LBR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Libya,LBY,GDP (current US$),NY.GDP.MKTP.CD,69252306372.0232
+Libya,LBY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-11.1956945908638
+Libya,LBY,GNI (current US$),NY.GNP.MKTP.CD,70040334692.1261
+Libya,LBY,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Libya,LBY,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Libya,LBY,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Libya,LBY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.64655782310429
+Libya,LBY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.3740105643075
+Libya,LBY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.8351172865323
+Libya,LBY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Libya,LBY,"Labor force, total",SL.TLF.TOTL.IN,2188927
+Libya,LBY,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Lithuania,LTU,GDP (current US$),NY.GDP.MKTP.CD,54751510087.7803
+Lithuania,LTU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.62510313907674
+Lithuania,LTU,GNI (current US$),NY.GNP.MKTP.CD,52844780801.5999
+Lithuania,LTU,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.19060486839382
+Lithuania,LTU,Consumer price index (2010 = 100),FP.CPI.TOTL,118.382098321258
+Lithuania,LTU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.33450937988024
+Lithuania,LTU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.19807602212644
+Lithuania,LTU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,72.0070105183128
+Lithuania,LTU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,77.3245620204896
+Lithuania,LTU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,20.9
+Lithuania,LTU,"Labor force, total",SL.TLF.TOTL.IN,1475085
+Lithuania,LTU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.26000022888184
+Luxembourg,LUX,GDP (current US$),NY.GDP.MKTP.CD,69825641851.0117
+Luxembourg,LUX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.31992520093738
+Luxembourg,LUX,GNI (current US$),NY.GNP.MKTP.CD,47012779829.0195
+Luxembourg,LUX,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-3.09491896361169
+Luxembourg,LUX,Consumer price index (2010 = 100),FP.CPI.TOTL,115.087815087815
+Luxembourg,LUX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.74332075653843
+Luxembourg,LUX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.3064265559542
+Luxembourg,LUX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,173.522183780737
+Luxembourg,LUX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,204.320817651215
+Luxembourg,LUX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.4
+Luxembourg,LUX,"Labor force, total",SL.TLF.TOTL.IN,315771
+Luxembourg,LUX,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.59000015258789
+Madagascar,MDG,GDP (current US$),NY.GDP.MKTP.CD,14104664514.8681
+Madagascar,MDG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.41123213007131
+Madagascar,MDG,GNI (current US$),NY.GNP.MKTP.CD,13612309509.7482
+Madagascar,MDG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.358546167653
+Madagascar,MDG,Consumer price index (2010 = 100),FP.CPI.TOTL,184.314525125891
+Madagascar,MDG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.61051441492366
+Madagascar,MDG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.149637883052437
+Madagascar,MDG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.1769218029022
+Madagascar,MDG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.4244012428345
+Madagascar,MDG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Madagascar,MDG,"Labor force, total",SL.TLF.TOTL.IN,14231540
+Madagascar,MDG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Malaysia,MYS,GDP (current US$),NY.GDP.MKTP.CD,365175135787.568
+Malaysia,MYS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.41319020769681
+Malaysia,MYS,GNI (current US$),NY.GNP.MKTP.CD,355640796620.398
+Malaysia,MYS,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.9438130359971
+Malaysia,MYS,Consumer price index (2010 = 100),FP.CPI.TOTL,121.463089485086
+Malaysia,MYS,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.662891865764376
+Malaysia,MYS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.72070021517061
+Malaysia,MYS,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,57.7507803730719
+Malaysia,MYS,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,65.2777281988024
+Malaysia,MYS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,8.4
+Malaysia,MYS,"Labor force, total",SL.TLF.TOTL.IN,16326127
+Malaysia,MYS,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.25999999046326
+Mongolia,MNG,GDP (current US$),NY.GDP.MKTP.CD,14206359006.8095
+Mongolia,MNG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.60224421870959
+Mongolia,MNG,GNI (current US$),NY.GNP.MKTP.CD,12634360578.4014
+Mongolia,MNG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.02218092329467
+Mongolia,MNG,Consumer price index (2010 = 100),FP.CPI.TOTL,195.758969878895
+Mongolia,MNG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.30106953550724
+Mongolia,MNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.13704541005504
+Mongolia,MNG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,65.1792814417403
+Mongolia,MNG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,59.2172331810747
+Mongolia,MNG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Mongolia,MNG,"Labor force, total",SL.TLF.TOTL.IN,1334529
+Mongolia,MNG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,9.27000045776367
+Morocco,MAR,GDP (current US$),NY.GDP.MKTP.CD,128919944681.869
+Morocco,MAR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.89097476065345
+Morocco,MAR,GNI (current US$),NY.GNP.MKTP.CD,126978299071.446
+Morocco,MAR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.87922301112596
+Morocco,MAR,Consumer price index (2010 = 100),FP.CPI.TOTL,111.067558219968
+Morocco,MAR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.303386036590361
+Morocco,MAR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.96890700867326
+Morocco,MAR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.9050584109511
+Morocco,MAR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.093057468891
+Morocco,MAR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Morocco,MAR,"Labor force, total",SL.TLF.TOTL.IN,11992626
+Morocco,MAR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Nepal,NPL,GDP (current US$),NY.GDP.MKTP.CD,34186190995.9565
+Nepal,NPL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.65705542802834
+Nepal,NPL,GNI (current US$),NY.GNP.MKTP.CD,34539802030.1241
+Nepal,NPL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,7.08301616422737
+Nepal,NPL,Consumer price index (2010 = 100),FP.CPI.TOTL,188.729977162221
+Nepal,NPL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.56868547784925
+Nepal,NPL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.466487528837777
+Nepal,NPL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.4695901126073
+Nepal,NPL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,7.77993647448059
+Nepal,NPL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Nepal,NPL,"Labor force, total",SL.TLF.TOTL.IN,16629490
+Nepal,NPL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+New Zealand,NZL,GDP (current US$),NY.GDP.MKTP.CD,213434571357.984
+New Zealand,NZL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.19247721643698
+New Zealand,NZL,GNI (current US$),NY.GNP.MKTP.CD,208157456971.094
+New Zealand,NZL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.4042828421144
+New Zealand,NZL,Consumer price index (2010 = 100),FP.CPI.TOTL,114.240911764414
+New Zealand,NZL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.61963190184049
+New Zealand,NZL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.83041418732592
+New Zealand,NZL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.0200359913201
+New Zealand,NZL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.318831856331
+New Zealand,NZL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+New Zealand,NZL,"Labor force, total",SL.TLF.TOTL.IN,2834605
+New Zealand,NZL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.1100001335144
+Niger,NER,GDP (current US$),NY.GDP.MKTP.CD,12916455161.1081
+Niger,NER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.94139686297071
+Niger,NER,GNI (current US$),NY.GNP.MKTP.CD,13479237976.2455
+Niger,NER,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.67568756639747
+Niger,NER,Consumer price index (2010 = 100),FP.CPI.TOTL,109.323686827592
+Niger,NER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-2.48979265070851
+Niger,NER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0917102782590997
+Niger,NER,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,26.2926320834357
+Niger,NER,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.4217334486184
+Niger,NER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Niger,NER,"Labor force, total",SL.TLF.TOTL.IN,8789149
+Niger,NER,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Nigeria,NGA,GDP (current US$),NY.GDP.MKTP.CD,448120015209.524
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.2084292771582
+Nigeria,NGA,GNI (current US$),NY.GNP.MKTP.CD,433449064637.171
+Nigeria,NGA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.48362971995397
+Nigeria,NGA,Consumer price index (2010 = 100),FP.CPI.TOTL,267.511515134176
+Nigeria,NGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.3967949687168
+Nigeria,NGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.567031242867457
+Nigeria,NGA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.8029510404665
+Nigeria,NGA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.2209267912443
+Nigeria,NGA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Nigeria,NGA,"Labor force, total",SL.TLF.TOTL.IN,62852935
+Nigeria,NGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.6999998092651
+Norway,NOR,GDP (current US$),NY.GDP.MKTP.CD,404941363636.364
+Norway,NOR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.745798219243483
+Norway,NOR,GNI (current US$),NY.GNP.MKTP.CD,417417500000
+Norway,NOR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.0128654957666043
+Norway,NOR,Consumer price index (2010 = 100),FP.CPI.TOTL,120.269658854402
+Norway,NOR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.16773003305405
+Norway,NOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.7222699848575
+Norway,NOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.7812983024478
+Norway,NOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.2631065552701
+Norway,NOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.7
+Norway,NOR,"Labor force, total",SL.TLF.TOTL.IN,2833765
+Norway,NOR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.69000005722046
+Pakistan,PAK,GDP (current US$),NY.GDP.MKTP.CD,320909489229.723
+Pakistan,PAK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.49763692943365
+Pakistan,PAK,GNI (current US$),NY.GNP.MKTP.CD,315299489229.723
+Pakistan,PAK,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.2594287717961
+Pakistan,PAK,Consumer price index (2010 = 100),FP.CPI.TOTL,182.320932671494
+Pakistan,PAK,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.5783618004555
+Pakistan,PAK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.853451601070211
+Pakistan,PAK,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.5147124206658
+Pakistan,PAK,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,9.39086337877951
+Pakistan,PAK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Pakistan,PAK,"Labor force, total",SL.TLF.TOTL.IN,71015168
+Pakistan,PAK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.82999992370605
+Papua New Guinea,PNG,GDP (current US$),NY.GDP.MKTP.CD,24751344560.8856
+Papua New Guinea,PNG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.48043062171888
+Papua New Guinea,PNG,GNI (current US$),NY.GNP.MKTP.CD,23707267070.1107
+Papua New Guinea,PNG,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Papua New Guinea,PNG,Consumer price index (2010 = 100),FP.CPI.TOTL,155.912649364765
+Papua New Guinea,PNG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.92867290939598
+Papua New Guinea,PNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.794342262981161
+Papua New Guinea,PNG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..
+Papua New Guinea,PNG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..
+Papua New Guinea,PNG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Papua New Guinea,PNG,"Labor force, total",SL.TLF.TOTL.IN,2947648
+Papua New Guinea,PNG,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Peru,PER,GDP (current US$),NY.GDP.MKTP.CD,228323495040.901
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.24063176875049
+Peru,PER,GNI (current US$),NY.GNP.MKTP.CD,220066520840.2
+Peru,PER,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.69547004666495
+Peru,PER,Consumer price index (2010 = 100),FP.CPI.TOTL,130.290437892643
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.25212191358024
+Peru,PER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.72887251525604
+Peru,PER,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.9044179405342
+Peru,PER,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,24.0390874349068
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,20.2
+Peru,PER,"Labor force, total",SL.TLF.TOTL.IN,18527166
+Peru,PER,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.38000011444092
+Philippines,PHL,GDP (current US$),NY.GDP.MKTP.CD,376823278560.849
+Philippines,PHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.11852566234006
+Philippines,PHL,GNI (current US$),NY.GNP.MKTP.CD,414552151966.011
+Philippines,PHL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.42462024303639
+Philippines,PHL,Consumer price index (2010 = 100),FP.CPI.TOTL,129.621996007385
+Philippines,PHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.39206534422402
+Philippines,PHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.31743920046954
+Philippines,PHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,40.4589222467353
+Philippines,PHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.382920012841
+Philippines,PHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Philippines,PHL,"Labor force, total",SL.TLF.TOTL.IN,45091807
+Philippines,PHL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.24000000953674
+Poland,POL,GDP (current US$),NY.GDP.MKTP.CD,596054591863.312
+Poland,POL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.44998787878788
+Poland,POL,GNI (current US$),NY.GNP.MKTP.CD,571155388862.843
+Poland,POL,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.46338357962968
+Poland,POL,Consumer price index (2010 = 100),FP.CPI.TOTL,114.111779375092
+Poland,POL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.227478809383
+Poland,POL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.77364183861292
+Poland,POL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,49.4933781721763
+Poland,POL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,53.1953356183897
+Poland,POL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.8
+Poland,POL,"Labor force, total",SL.TLF.TOTL.IN,18073683
+Poland,POL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.27999997138977
+Portugal,PRT,GDP (current US$),NY.GDP.MKTP.CD,239986922638.902
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.68275992118076
+Portugal,PRT,GNI (current US$),NY.GNP.MKTP.CD,233752871351.921
+Portugal,PRT,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.50873322732326
+Portugal,PRT,Consumer price index (2010 = 100),FP.CPI.TOTL,110.624358614714
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.338178410046125
+Portugal,PRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.33976842606964
+Portugal,PRT,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,43.0562955633461
+Portugal,PRT,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,43.5084218458323
+Portugal,PRT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.2
+Portugal,PRT,"Labor force, total",SL.TLF.TOTL.IN,5264946
+Portugal,PRT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.46000003814697
+Puerto Rico,PRI,GDP (current US$),NY.GDP.MKTP.CD,105126400000
+Puerto Rico,PRI,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.67506310530929
+Puerto Rico,PRI,GNI (current US$),NY.GNP.MKTP.CD,70765100000
+Puerto Rico,PRI,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-1.19044806763183
+Puerto Rico,PRI,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Puerto Rico,PRI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Puerto Rico,PRI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..
+Puerto Rico,PRI,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,47.0139755570437
+Puerto Rico,PRI,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,60.5788840862048
+Puerto Rico,PRI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Puerto Rico,PRI,"Labor force, total",SL.TLF.TOTL.IN,1107790
+Puerto Rico,PRI,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.30000019073486
+Qatar,QAT,GDP (current US$),NY.GDP.MKTP.CD,175837550989.011
+Qatar,QAT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.774808381230429
+Qatar,QAT,GNI (current US$),NY.GNP.MKTP.CD,171427935604.396
+Qatar,QAT,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.408560203415959
+Qatar,QAT,Consumer price index (2010 = 100),FP.CPI.TOTL,115.380849813981
+Qatar,QAT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.666641124861102
+Qatar,QAT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,32.7617749211246
+Qatar,QAT,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.9724238902491
+Qatar,QAT,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,52.3472678778984
+Qatar,QAT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Qatar,QAT,"Labor force, total",SL.TLF.TOTL.IN,2117362
+Qatar,QAT,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,0.100000001490116
+Romania,ROU,GDP (current US$),NY.GDP.MKTP.CD,251019278416.197
+Romania,ROU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.85316383348211
+Romania,ROU,GNI (current US$),NY.GNP.MKTP.CD,247448537530.381
+Romania,ROU,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,4.3294454462969
+Romania,ROU,Consumer price index (2010 = 100),FP.CPI.TOTL,123.780383348878
+Romania,ROU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.82785432599428
+Romania,ROU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.81743447683141
+Romania,ROU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,44.3028663616078
+Romania,ROU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.2001946616386
+Romania,ROU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.4
+Romania,ROU,"Labor force, total",SL.TLF.TOTL.IN,8972261
+Romania,ROU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.91000008583069
+Singapore,SGP,GDP (current US$),NY.GDP.MKTP.CD,375472731271.075
+Singapore,SGP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.09567256732588
+Singapore,SGP,GNI (current US$),NY.GNP.MKTP.CD,328531300395.836
+Singapore,SGP,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Singapore,SGP,Consumer price index (2010 = 100),FP.CPI.TOTL,114.405785881945
+Singapore,SGP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.565260568780358
+Singapore,SGP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.30707949147546
+Singapore,SGP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,146.533295563097
+Singapore,SGP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,175.2741156679
+Singapore,SGP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Singapore,SGP,"Labor force, total",SL.TLF.TOTL.IN,3544015
+Singapore,SGP,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.09999990463257
+Somalia,SOM,GDP (current US$),NY.GDP.MKTP.CD,6485000000
+Somalia,SOM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.45652154332035
+Somalia,SOM,GNI (current US$),NY.GNP.MKTP.CD,6449308553.2943
+Somalia,SOM,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Somalia,SOM,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Somalia,SOM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Somalia,SOM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0431754611712322
+Somalia,SOM,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,83.6237471087124
+Somalia,SOM,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.4402467232074
+Somalia,SOM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Somalia,SOM,"Labor force, total",SL.TLF.TOTL.IN,2858312
+Somalia,SOM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,18.8299999237061
+South Africa,ZAF,GDP (current US$),NY.GDP.MKTP.CD,388531954110.604
+South Africa,ZAF,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.303453234515089
+South Africa,ZAF,GNI (current US$),NY.GNP.MKTP.CD,378848113685.367
+South Africa,ZAF,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,0.595298985705654
+South Africa,ZAF,Consumer price index (2010 = 100),FP.CPI.TOTL,158.935639935493
+South Africa,ZAF,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.12024587014984
+South Africa,ZAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.5686401152277
+South Africa,ZAF,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,26.7572951079431
+South Africa,ZAF,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.2974712853793
+South Africa,ZAF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+South Africa,ZAF,"Labor force, total",SL.TLF.TOTL.IN,22876128
+South Africa,ZAF,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,25.5400009155273
+Sri Lanka,LKA,GDP (current US$),NY.GDP.MKTP.CD,89014990791.9051
+Sri Lanka,LKA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.220483886824823
+Sri Lanka,LKA,GNI (current US$),NY.GNP.MKTP.CD,86545585356.5612
+Sri Lanka,LKA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-0.458335494204903
+Sri Lanka,LKA,Consumer price index (2010 = 100),FP.CPI.TOTL,155.528883036152
+Sri Lanka,LKA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.52839358231809
+Sri Lanka,LKA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.09067562659476
+Sri Lanka,LKA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.6019929606444
+Sri Lanka,LKA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,21.8235309246323
+Sri Lanka,LKA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Sri Lanka,LKA,"Labor force, total",SL.TLF.TOTL.IN,8484315
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,4.67000007629395
+Sudan,SDN,GDP (current US$),NY.GDP.MKTP.CD,32338079165.2893
+Sudan,SDN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.17825104530091
+Sudan,SDN,GNI (current US$),NY.GNP.MKTP.CD,30717965586.5431
+Sudan,SDN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-1.53722274438593
+Sudan,SDN,Consumer price index (2010 = 100),FP.CPI.TOTL,1344.19276243483
+Sudan,SDN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,50.9940515002971
+Sudan,SDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.476960503374967
+Sudan,SDN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,0.588271159879598
+Sudan,SDN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,0.630574147276582
+Sudan,SDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Sudan,SDN,"Labor force, total",SL.TLF.TOTL.IN,12463747
+Sudan,SDN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Sweden,SWE,GDP (current US$),NY.GDP.MKTP.CD,533879529188.454
+Sweden,SWE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.98619587380391
+Sweden,SWE,GNI (current US$),NY.GNP.MKTP.CD,549543150544.506
+Sweden,SWE,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,2.94731380950093
+Sweden,SWE,Consumer price index (2010 = 100),FP.CPI.TOTL,110.509219846432
+Sweden,SWE,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.78415097403832
+Sweden,SWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.4050379189887
+Sweden,SWE,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,43.6246180157354
+Sweden,SWE,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,47.8092109523511
+Sweden,SWE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.1
+Sweden,SWE,"Labor force, total",SL.TLF.TOTL.IN,5447661
+Sweden,SWE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,6.82999992370605
+Syrian Arab Republic,SYR,GDP (current US$),NY.GDP.MKTP.CD,22443299775.342
+Syrian Arab Republic,SYR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.22070522070523
+Syrian Arab Republic,SYR,GNI (current US$),NY.GNP.MKTP.CD,21589756788.9983
+Syrian Arab Republic,SYR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Syrian Arab Republic,SYR,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Syrian Arab Republic,SYR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Syrian Arab Republic,SYR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.27921574292573
+Syrian Arab Republic,SYR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,28.9894046595335
+Syrian Arab Republic,SYR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,13.0100664640827
+Syrian Arab Republic,SYR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Syrian Arab Republic,SYR,"Labor force, total",SL.TLF.TOTL.IN,5660503
+Syrian Arab Republic,SYR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Tajikistan,TJK,GDP (current US$),NY.GDP.MKTP.CD,8300784856.87904
+Tajikistan,TJK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.40065243179122
+Tajikistan,TJK,GNI (current US$),NY.GNP.MKTP.CD,9631253672.45866
+Tajikistan,TJK,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Tajikistan,TJK,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Tajikistan,TJK,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Tajikistan,TJK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.00888904890509
+Tajikistan,TJK,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.0650766403151
+Tajikistan,TJK,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.9799392742745
+Tajikistan,TJK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,26.3
+Tajikistan,TJK,"Labor force, total",SL.TLF.TOTL.IN,2421342
+Tajikistan,TJK,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Thailand,THA,GDP (current US$),NY.GDP.MKTP.CD,544081056184.697
+Thailand,THA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.15165612180819
+Thailand,THA,GNI (current US$),NY.GNP.MKTP.CD,523869832128.731
+Thailand,THA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Thailand,THA,Consumer price index (2010 = 100),FP.CPI.TOTL,113.265649996346
+Thailand,THA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.70672860131428
+Thailand,THA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.74559494087468
+Thailand,THA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,50.1610101719642
+Thailand,THA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,59.5074853435664
+Thailand,THA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,6.2
+Thailand,THA,"Labor force, total",SL.TLF.TOTL.IN,39952396
+Thailand,THA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,0.720000028610229
+Tunisia,TUN,GDP (current US$),NY.GDP.MKTP.CD,41906113685.9324
+Tunisia,TUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.50342785751032
+Tunisia,TUN,GNI (current US$),NY.GNP.MKTP.CD,40813829062.1592
+Tunisia,TUN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.29889286342579
+Tunisia,TUN,Consumer price index (2010 = 100),FP.CPI.TOTL,155.325373517033
+Tunisia,TUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.72007532863804
+Tunisia,TUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.48229897962756
+Tunisia,TUN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,56.3822840334945
+Tunisia,TUN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.9503306922947
+Tunisia,TUN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Tunisia,TUN,"Labor force, total",SL.TLF.TOTL.IN,4240771
+Tunisia,TUN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,15.1300001144409
+Uganda,UGA,GDP (current US$),NY.GDP.MKTP.CD,35353060634.2022
+Uganda,UGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.43874503364799
+Uganda,UGA,GNI (current US$),NY.GNP.MKTP.CD,31947093833.6706
+Uganda,UGA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.34667247721366
+Uganda,UGA,Consumer price index (2010 = 100),FP.CPI.TOTL,176.049367040563
+Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.86758803446909
+Uganda,UGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.136440643979205
+Uganda,UGA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.2519959479886
+Uganda,UGA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.1090580169176
+Uganda,UGA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,20.3
+Uganda,UGA,"Labor force, total",SL.TLF.TOTL.IN,16078050
+Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Ukraine,UKR,GDP (current US$),NY.GDP.MKTP.CD,153882982016.281
+Ukraine,UKR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.19950386354134
+Ukraine,UKR,GNI (current US$),NY.GNP.MKTP.CD,155795067632.402
+Ukraine,UKR,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,3.48873890934465
+Ukraine,UKR,Consumer price index (2010 = 100),FP.CPI.TOTL,281.658595641646
+Ukraine,UKR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.8867174561113
+Ukraine,UKR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.93658353086744
+Ukraine,UKR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,49.2795430350714
+Ukraine,UKR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.2316912560049
+Ukraine,UKR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Ukraine,UKR,"Labor force, total",SL.TLF.TOTL.IN,21148251
+Ukraine,UKR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.1899995803833
+United Arab Emirates,ARE,GDP (current US$),NY.GDP.MKTP.CD,417989721734.494
+United Arab Emirates,ARE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.10834813893099
+United Arab Emirates,ARE,GNI (current US$),NY.GNP.MKTP.CD,420059156724.283
+United Arab Emirates,ARE,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,1.25679602326581
+United Arab Emirates,ARE,Consumer price index (2010 = 100),FP.CPI.TOTL,114.524660532343
+United Arab Emirates,ARE,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-1.93108114782171
+United Arab Emirates,ARE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,20.5022832059804
+United Arab Emirates,ARE,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,70.7193961716637
+United Arab Emirates,ARE,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,96.6641687543316
+United Arab Emirates,ARE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+United Arab Emirates,ARE,"Labor force, total",SL.TLF.TOTL.IN,6220791
+United Arab Emirates,ARE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2.32999992370605
+Uzbekistan,UZB,GDP (current US$),NY.GDP.MKTP.CD,59907674027.4676
+Uzbekistan,UZB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.70963222180055
+Uzbekistan,UZB,GNI (current US$),NY.GNP.MKTP.CD,60644519146.4206
+Uzbekistan,UZB,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+Uzbekistan,UZB,Consumer price index (2010 = 100),FP.CPI.TOTL,283.758541881172
+Uzbekistan,UZB,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.5257359560686
+Uzbekistan,UZB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.47554445038462
+Uzbekistan,UZB,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,44.4358950042226
+Uzbekistan,UZB,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.4213918592574
+Uzbekistan,UZB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Uzbekistan,UZB,"Labor force, total",SL.TLF.TOTL.IN,14055171
+Uzbekistan,UZB,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,8.97999954223633
+Vietnam,VNM,GDP (current US$),NY.GDP.MKTP.CD,334365257436.758
+Vietnam,VNM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.3592809998546
+Vietnam,VNM,GNI (current US$),NY.GNP.MKTP.CD,317567407546.967
+Vietnam,VNM,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,7.44254237867399
+Vietnam,VNM,Consumer price index (2010 = 100),FP.CPI.TOTL,163.516947912918
+Vietnam,VNM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.79582367452244
+Vietnam,VNM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.51327550460568
+Vietnam,VNM,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,79.5466304235001
+Vietnam,VNM,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,85.1575903051692
+Vietnam,VNM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Vietnam,VNM,"Labor force, total",SL.TLF.TOTL.IN,55758177
+Vietnam,VNM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,1.67999994754791
+Zimbabwe,ZWE,GDP (current US$),NY.GDP.MKTP.CD,21832234925.5021
+Zimbabwe,ZWE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-6.33244640703352
+Zimbabwe,ZWE,GNI (current US$),NY.GNP.MKTP.CD,21487836444.2707
+Zimbabwe,ZWE,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-5.85318954596374
+Zimbabwe,ZWE,Consumer price index (2010 = 100),FP.CPI.TOTL,414.684308931396
+Zimbabwe,ZWE,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,255.304990757856
+Zimbabwe,ZWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.765893875563726
+Zimbabwe,ZWE,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,25.5241109989956
+Zimbabwe,ZWE,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.1634588811092
+Zimbabwe,ZWE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,38.3
+Zimbabwe,ZWE,"Labor force, total",SL.TLF.TOTL.IN,7591946
+Zimbabwe,ZWE,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,7.36999988555908
+"Venezuela, RB",VEN,GDP (current US$),NY.GDP.MKTP.CD,..
+"Venezuela, RB",VEN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,..
+"Venezuela, RB",VEN,GNI (current US$),NY.GNP.MKTP.CD,..
+"Venezuela, RB",VEN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..
+"Venezuela, RB",VEN,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+"Venezuela, RB",VEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+"Venezuela, RB",VEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.87757923272497
+"Venezuela, RB",VEN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..
+"Venezuela, RB",VEN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..
+"Venezuela, RB",VEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+"Venezuela, RB",VEN,"Labor force, total",SL.TLF.TOTL.IN,10911942
+"Venezuela, RB",VEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+Bermuda,BMU,GDP (current US$),NY.GDP.MKTP.CD,7423465000
+Bermuda,BMU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.306266735233933
+Bermuda,BMU,GNI (current US$),NY.GNP.MKTP.CD,7524540000
+Bermuda,BMU,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,-1.62292694573229
+Bermuda,BMU,Consumer price index (2010 = 100),FP.CPI.TOTL,..
+Bermuda,BMU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,..
+Bermuda,BMU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..
+Bermuda,BMU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,25.816677252469
+Bermuda,BMU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,51.7434243981752
+Bermuda,BMU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..
+Bermuda,BMU,"Labor force, total",SL.TLF.TOTL.IN,..
+Bermuda,BMU,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 12/22/2022,,,,
