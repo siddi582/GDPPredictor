@@ -1,9 +1,10 @@
 # PfizerFinalProject-
 
 # Overview: 
-World Health Organisation(WHO) has consulted with a team of Data Analyst and We have been lucky to be chosen amongst the entire list of candidates.
-WHO is looking for investing in developing countries, who have tremendously suffered through Covid-19. What they want from our team is present data in a way that it can imulsify the investors to help aiding the victim countries.
-We as a team, would work on the Data set, to create clean and understandable visuals for the investors.
+World Health Organisation(WHO) has consulted with a team of Data Analysts and We have been lucky to be chosen amongst the entire list of candidates.
+WHO is looking for investing in developing countries, who have tremendously suffered through Covid-19. 
+What they want from our team is to present data in a way that it can intice the investors and donors to help aiding the victim countries.
+We as a team, would work on the Data set, to create clean and understandable visuals for the investors and create a comparative study between developed and developing countries.
 
 # Tools:
 - Python for (ETL)
