@@ -1,11 +1,10 @@
-# Covidariance FinalProject-
+# Forecasting GDP Using World Bank Data-
 
 # Overview: 
 
-World Health Organisation(WHO) has consulted with a team of Data Analysts and We have been lucky to be chosen amongst the entire list of candidates.
-WHO is looking for investing in developing countries, who have tremendously suffered through Covid-19. 
-What they want from our team is to present data in a way that it can intice the investors and donors to help aid the victim countries.
-We as a team, would work on the Data set, to create clean and understandable visuals for the investors and create a comparative study between developed and developing countries.
+The team has decided to create a predictive Machine Learning model to forecast nominal GDP (GDP current in USD). We used country data retrieved from the World Bank, spanning from 1961 to 2021. Variables impacting GDP, include, but are not limited to, macroeconomic and socio-economic variables, such as inflation, unemployment rate, urbanization rate, energy use and consumption, education levels and health expenditure.
+We performed ETL on a dataset of nearly 175,000 observations. Then we ran 2 machine learning models for developing and devoped countries. We visualized the data in Tableau. Finally, we were able to understand the most impactful factors to economic growth. 
+To be added here: Main takeaways
 
 # Tools:
 - Python for (ETL)
@@ -14,23 +13,28 @@ We as a team, would work on the Data set, to create clean and understandable vis
 - Tableau 
 
 # Model:
-After performing ETL,
-- We will filter countries into two categories (developed and developing) countries(based on gdp/per capita);
-- We will be running a Linear Regression model, predicting GDP over all Economic Indicators(2019-2023);
+## ETL:
+- We read in the CSV file and drop unnecessary columns;
+- We remove special unwanted characters that represented missing data, we replace them with naan values;
+- We filter out country groups (Africa, Europe, etc.) and leave in the individual countries only;
+- We drop the years that have more than 70% of data missing;
+- We convert the data into float (as Python reads it as object);
+- We fill in missing row values with row averages;
+- We convert the data from wide to long format, with years as a single column and each variable as a column;
+- We remove outliers using IQR;
 
-# Visulations:
-1. How Gdp affected CPI
-2. How all economic indicators responsed in increase of covid cases
-3. Analyse precovid and postcovid 
-4. Heat map displaying covid cases and gdp
+After performing ETL, we
+- Filtered countries into two categories (developed and developing) countries(based on gdp/per capita). We use the Investopedia definition of a developed country: A country with a GDP per capita over $12,000 is defined as developed. Countries with a GDP per capita less than $12K is defined as developping. 
+- Will be running 2 machines learning models, predicting GDP over using socio-economic indicators(2019-2023);
 
-# Data set:
-- Decide whether we use monthly, quarterly or yearly.?
+## Machine Leaning: 
+
+# Visualizations:
+
 
 # Results:
-- Based on data set (2019-2023) we will be presenting the following outcomes:
-- Linear regressions model
-- Also, we will be analysing the developed countries, based on their recovery (CPI GROWTH/GDP)
-- Map these countries based on GDP AND COVID CASES 
+- Based on data set (1961-2021) we will be presenting the following outcomes:
+- Linear regression models
+
 
 # Summary: 
