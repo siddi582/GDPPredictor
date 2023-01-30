@@ -18,7 +18,7 @@ After performing ETL,
 - We will filter countries into two categories developed and developing countries based on GDP (per capita);
 - We will be running a Linear Regression model, predicting GDP over all Economic Indicators(2019-2023);
 
-# Visulations:
+# Visualizations:
 1. How GDP affected CPI
 2. How all economic indicators responsed in increase of covid cases
 3. Analyse precovid and postcovid 
@@ -37,9 +37,5 @@ After performing ETL,
 A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Python, SQL, Jupyter notebook and Pandas libraries 
 
 ## Resources
-
-- **Data Source:** JavaScript list [data.js](static/js/data.js)
-- **Software:** VS Code and Chrome Developer Tools, 
-- **Languages:** JavaScript, HTML, CSS and Bootstrap 3
-- **Dependencies:** D3
-(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 27 Aug 2020.
+- **Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
+(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 29 Jan 2023
