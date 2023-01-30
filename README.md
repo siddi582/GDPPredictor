@@ -2,10 +2,10 @@
 
 # Overview: 
 
-World Health Organisation(WHO) has consulted with a team of Data Analysts and We have been lucky to be chosen amongst the entire list of candidates.
-WHO is looking for investing in developing countries, who have tremendously suffered through Covid-19. 
-What they want from our team is to present data in a way that it can intice the investors and donors to help aid the victim countries.
-We as a team, would work on the Data set, to create clean and understandable visuals for the investors and create a comparative study between developed and developing countries.
+World Health Organization(WHO) has consulted with a team of Data Analysts and have been lucky to be chosen amongst the entire list of candidates.
+WHO is looking to invest in developing countries, whose economy has tremendously suffered through Covid-19 from 2019-2023. 
+Our team is to present this data in a way that can influence the investors to contribute aid to developing countries.
+We as a team, are working on the dataset to create clear visuals for the investors to create a comparative study between the developed and developing countries in order to determine which countries the aid should go more towards .
 
 # Tools:
 - Python for (ETL)
@@ -15,17 +15,17 @@ We as a team, would work on the Data set, to create clean and understandable vis
 
 # Model:
 After performing ETL,
-- We will filter countries into two categories (developed and developing) countries(based on gdp/per capita);
+- We will filter countries into two categories developed and developing countries based on GDP (per capita);
 - We will be running a Linear Regression model, predicting GDP over all Economic Indicators(2019-2023);
 
 # Visulations:
-1. How Gdp affected CPI
+1. How GDP affected CPI
 2. How all economic indicators responsed in increase of covid cases
 3. Analyse precovid and postcovid 
 4. Heat map displaying covid cases and gdp
 
 # Data set:
-- Decide whether we use monthly, quarterly or yearly.?
+- Decide whether we use monthly, quarterly or yearly.
 
 # Results:
 - Based on data set (2019-2023) we will be presenting the following outcomes:
@@ -34,3 +34,12 @@ After performing ETL,
 - Map these countries based on GDP AND COVID CASES 
 
 # Summary: 
+A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Python, SQL, Jupyter notebook and Pandas libraries 
+
+## Resources
+
+- **Data Source:** JavaScript list [data.js](static/js/data.js)
+- **Software:** VS Code and Chrome Developer Tools, 
+- **Languages:** JavaScript, HTML, CSS and Bootstrap 3
+- **Dependencies:** D3
+(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 27 Aug 2020.
