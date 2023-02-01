@@ -33,9 +33,9 @@ Will be running 2 machines learning models, predicting GDP over using socio-econ
 
 ## Visualizations:
 1. How GDP affected CPI
-2. How all economic indicators responsed during pandemic in developed and developing countries
+2. How all economic indicators responsed in developed and developing countries
 3. Analyze pre-covid and post-covid years
-4. Heat maps showing countries based on current gdp and health facilites
+4. Map ilustraton showing countries based on gdp per capita and inflation
 
 ## Results:
 Based on data set (1961-2021) we will be presenting the following outcomes:
