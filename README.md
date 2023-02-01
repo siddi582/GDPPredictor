@@ -25,18 +25,16 @@ We tested the following models on our dataset:
 * We fill in missing row values with row averages;
 * We convert the data from wide to long format, with years as a single column and each variable as a column;
 * We remove outliers using IQR;
-* After performing ETL, we
-
-Filtered countries into two categories (developed and developing) countries(based on gdp/per capita). We use the Investopedia definition of a developed country: A country with a GDP per capita over $12,000 is defined as developed. Countries with a GDP per capita less than $12K is defined as developping.
+* After performing ETL, we filtered countries into two categories (developed and developing) countries(based on gdp/per capita). We use the Investopedia definition of a developed country: A country with a GDP per capita over $12,000 is defined as developed. Countries with a GDP per capita less than $12K is defined as developping.
 Will be running 2 machines learning models, predicting GDP over using socio-economic indicators(2019-2023);
 
-## Machine Leaning:
+## Machine Learning:
 
 
 ## Visualizations:
 1. How GDP affected CPI
 2. How all economic indicators responsed during pandemic in developed and developing countries
-3. Analyse precovid and postcovid years
+3. Analyze pre-covid and post-covid years
 4. Heat maps showing countries based on current gdp and health facilites
 
 ## Results:
@@ -44,4 +42,3 @@ Based on data set (1961-2021) we will be presenting the following outcomes:
 Linear regression models
 
 ## Summary:
-
