@@ -37,7 +37,7 @@ We performed a couple of models, but found the best accuracy with the Random For
 1. How GDP affected CPI
 2. How all economic indicators responsed in developed and developing countries
 3. Pie charts showing Top 10 GDP/Capita countries and Top 10 Countries with high literacy rate.
-4. Map ilustraton showing countries based on gdp per capita and inflation
+4. Map illustrations showing countries based on gdp per capita and inflation
 
 ## Results:
 Based on data set (1961-2021) we will be presenting the following outcomes:
