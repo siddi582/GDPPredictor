@@ -42,3 +42,8 @@ Based on data set (1961-2021) we will be presenting the following outcomes:
 Linear regression models
 
 ## Summary:
+A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, SQL, Jupyter notebook and Pandas libraries 
+
+## Resources
+- **Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
+(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 29 Jan 2023
