@@ -1,5 +1,7 @@
 # FORCASTING GDP USING ECONOMIC INDICATORS
 
+Tableau Dashboard link: [link to dashboard](https://public.tableau.com/views/FinalProject_16751348636030/FORECASTINGGDP?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Overview:
 The team has decided to create a predictive Machine Learning model to forecast nominal GDP (GDP current in USD). We used country data retrieved from the World Bank, spanning from 1961 to 2021. Variables impacting GDP, include, but are not limited to, macroeconomic and socio-economic variables, such as inflation, unemployment rate, urbanization rate, energy use and consumption, education levels and health expenditure. We performed ETL on a dataset of nearly 175,000 observations. Then we ran 2 machine learning models for developing and devoped countries. We visualized the data in Tableau. Finally, we were able to understand the most impactful factors to economic growth. To be added here: Main takeaways
 
@@ -29,12 +31,12 @@ We tested the following models on our dataset:
 Will be running 2 machines learning models, predicting GDP over using socio-economic indicators(2019-2023);
 
 ## Machine Learning:
-
+We performed a couple of models, but found the best accuracy with the Random Forest model.
 
 ## Visualizations:
 1. How GDP affected CPI
 2. How all economic indicators responsed in developed and developing countries
-3. Analyze pre-covid and post-covid years
+3. Pie charts showing Top 10 GDP/Capita countries and Top 10 Countries with high literacy rate.
 4. Map ilustraton showing countries based on gdp per capita and inflation
 
 ## Results:
@@ -45,5 +47,5 @@ Linear regression models
 A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, SQL, Jupyter notebook and Pandas libraries 
 
 ## Resources
-- **Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
-(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 29 Jan 2023
+**Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
+
