@@ -32,7 +32,7 @@ We tested the following models on our dataset:
 Will be running 2 machines learning models, predicting GDP over using socio-economic indicators(2019-2023);
 
 ## Machine Learning:
-We performed a couple of models, but found the best accuracy with the Random Forest model.
+We performed a variety of models including Unsupervised Machine Learning, but found the best accuracy with regression in the form of the Random Forest model.
 
 ## Visualizations:
 1. How GDP affected CPI
@@ -45,7 +45,7 @@ Based on data set (1961-2021) we will be presenting the following outcomes:
 Linear regression models
 
 ## Summary:
-A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, SQL, Jupyter notebook and Pandas libraries 
+A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, SQL, Jupyter notebook and Pandas libraries. 
 
 ## Resources
 **Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
