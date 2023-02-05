@@ -1,6 +1,6 @@
 # FORCASTING GDP USING ECONOMIC INDICATORS
 
-Tableau Dashboard link: [link to dashboard](https://public.tableau.com/views/FinalProject_16751348636030/FORECASTINGGDP?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Tableau Dashboard link: [link to Dashboard](https://public.tableau.com/views/FinalProject_16751348636030/FORECASTINGGDP?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [Overview](https://public.tableau.com/authoring/MajorTrendsBetweenDevelopingVsDevelopedCountries/FORECASTINGGDP#1)
 
 ## Overview:
