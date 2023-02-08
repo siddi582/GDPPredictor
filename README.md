@@ -35,18 +35,18 @@ Will be running 2 machines learning models, predicting GDP over using socio-econ
 We performed a variety of models including Unsupervised Machine Learning, but found the best accuracy with regression in the form of the Random Forest model.
 
 ## Visualizations:
-1. How GDP affected CPI
-2. How all economic indicators responsed in developed and developing countries
-3. Pie charts showing Top 10 GDP/Capita countries and Top 10 Countries with high literacy rate.
-4. Map illustrations showing countries based on gdp per capita and inflation
+1. How GDP affected CPI.
+2. How all economic indicators responsed in developed and developing countries.
+3. Bar charts showing Urbanization, Unemployment and Life Expectancy in G7 countries.
+4. Map illustrations showing countries based on gdp per capita and inflation.
 
 ## Results:
 Based on data set (1961-2021) we will be presenting the following outcomes:
-Linear regression models
+Random Forest Model.
 
 ## Summary:
-A comparative and visually descriptive dataset comparing developing countries and their economies prior to the COVID-19 era and now. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, SQL, Jupyter notebook and Pandas libraries. 
+A comparative and visually descriptive dataset comparing developing countries and their economies. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, Jupyter notebook and Pandas libraries. 
 
-## Resources
-**Software:** Chrome Developer Tools, Jupyter Notebook, VS Code, and Tableau
+
+
 
