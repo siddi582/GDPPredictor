@@ -44,6 +44,9 @@ We performed a variety of models including Unsupervised Machine Learning, but fo
 Based on data set (1961-2021) we will be presenting the following outcomes:
 Random Forest Model.
 
+![image](https://user-images.githubusercontent.com/111619125/217625873-25535846-ebae-485b-81be-8d94e7c46069.png)
+
+
 ## Summary:
 A comparative and visually descriptive dataset comparing developing countries and their economies. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, Jupyter notebook and Pandas libraries. 
 
