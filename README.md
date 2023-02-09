@@ -4,7 +4,8 @@ Tableau Dashboard: [Link to Dashboard](https://public.tableau.com/shared/YXW5QSG
 [Overview](https://public.tableau.com/authoring/MajorTrendsBetweenDevelopingVsDevelopedCountries/FORECASTINGGDP#1)
 
 ## Overview:
-The team has decided to create a predictive Machine Learning model to forecast nominal GDP (GDP current in USD). We used country data retrieved from the World Bank, spanning from 1961 to 2021. Variables impacting GDP, include, but are not limited to, macroeconomic and socio-economic variables, such as inflation, unemployment rate, urbanization rate, energy use and consumption, education levels and health expenditure. We performed ETL on a dataset of nearly 175,000 observations. Then we ran 2 machine learning models for developing and devoped countries. We visualized the data in Tableau. Finally, we were able to understand the most impactful factors to economic growth. To be added here: Main takeaways
+The team has decided to create a predictive Machine Learning model to forecast nominal GDP (GDP current in USD). We used country data retrieved from the World Bank, spanning from 1961 to 2021. Variables impacting GDP, include, but are not limited to, macroeconomic and socio-economic variables, such as inflation, unemployment rate, urbanization rate, energy use and consumption, education levels and health expenditure. We performed ETL on a dataset of nearly 175,000 observations. Then we ran 2 machine learning models for developing and devoped countries. We visualized the data in Tableau. Finally, we were able to understand the most impactful factors to economic growth. 
+
 
 ## Tools:
 Python for (ETL)
@@ -48,7 +49,7 @@ Random Forest Model.
 
 
 ## Summary:
-A comparative and visually descriptive dataset comparing developing countries and their economies. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, Jupyter notebook and Pandas libraries. 
+A comparative and visually descriptive dataset comparing developing countries and their economies. This dataset will utilize information gathered from WHO's website and include an ERD diagram and content produced using aspects of Machine-Learning, Tableau, Python, Jupyter notebook and Pandas libraries.
 
 
 
